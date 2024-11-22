@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Thiago Alves!  
 
-<img align="right" src="https://github.com/username.png" alt="Foto de perfil" width="150" style="border-radius: 50%;"/>
+<img align="right" src="https://github.com/thiago1187/thiago1187/blob/main/IMG_3235.HEIC" alt="Foto de perfil" width="100" style="border-radius: 50%;"/>
 
 ### 🌟 Sobre mim  
 - 🎓 **Estudante de Ciência da Computação** na CESAR School, com previsão de conclusão em 2028.  
