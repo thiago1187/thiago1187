@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá, eu sou Thiago Alves!  
 
-<!--
-**thiago1187/thiago1187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://github.com/username.png" alt="Foto de perfil" width="150" style="border-radius: 50%;"/>
 
-Here are some ideas to get you started:
+### 🌟 Sobre mim  
+- 🎓 **Estudante de Ciência da Computação** na CESAR School, com previsão de conclusão em 2028.  
+- 💻 **Interesse em:**  
+  - Desenvolvimento Backend  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Projetos  
+- 🔗 **[CRUD em Python](https://github.com/Artur-Antunes-1/Projeto-FP)**: Aplicação CRUD para manipulação de dados de competições.  
+- 🎮 **[Jogo 2D - Construct]**: Jogo cooperativo/local  
+- 🤖 **[Quiz Interativo com Arduino]**: Quiz eletrônico utilizando Arduino.
+
+---
+
+### 📫 Contato  
+- 🌐 **LinkedIn:** [Thiago Alves]([https://.com/in/seu-perfil-linkedin](https://www.linkedin.com/in/thiago-alves-computação/))  
+- ✉️ **E-mail:** thiago.amacena2@hotmail.com
+- tam7@cesar.school 
+
+---
+
+### 🛠️ Tecnologias e Ferramentas  
+- **Linguagens:** Python, JavaScript  
+- **Ferramentas:** Construct, Arduino, Git, VSCODE  
+- **Outros:** Markdown, trabalho em equipe  
+
+---
+
+
+### 🌟 Vamos colaborar?  
+Sempre em busca de novos desafios e aprendizados!  
+👉 Sinta-se à vontade para explorar meus repositórios ou entrar em contato.
